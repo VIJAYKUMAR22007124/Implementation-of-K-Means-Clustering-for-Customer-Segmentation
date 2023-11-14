@@ -13,7 +13,6 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 3. Implement Kmeans Clustering fro the Model.
 4. Plot the graph of cluster
    
-
 ## Program:
 ```
 /*
