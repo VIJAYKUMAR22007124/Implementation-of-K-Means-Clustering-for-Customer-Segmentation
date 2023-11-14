@@ -8,17 +8,18 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import Necesary Libraries.
+2. Perform Basic operations.
+3. Implement Kmeans Clustering fro the Model.
+4. Plot the graph of cluster
+   
 
 ## Program:
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: 
-RegisterNumber:  
+Developed by: B VIJAY KUMAR
+RegisterNumber:  212222230173
 */
 ```
 
